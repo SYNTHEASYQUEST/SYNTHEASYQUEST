@@ -16,6 +16,9 @@
 - 💬 Load both "ServeurRaspberry" and "UDPTEST" folders in order to use the server we made. This server is aimed at receiving datas from capacitive sensors collected in a Raspberry.
 
 
+Enjoy the experience !
+
+
 
 - 📫 How to reach us : cokila1999@gmail.com
 
