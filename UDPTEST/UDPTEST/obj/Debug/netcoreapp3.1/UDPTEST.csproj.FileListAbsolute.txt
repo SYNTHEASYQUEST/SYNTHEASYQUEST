@@ -1,0 +1,13 @@
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\bin\Debug\netcoreapp3.1\UDPTEST.exe
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\bin\Debug\netcoreapp3.1\UDPTEST.deps.json
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\bin\Debug\netcoreapp3.1\UDPTEST.runtimeconfig.json
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\bin\Debug\netcoreapp3.1\UDPTEST.runtimeconfig.dev.json
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\bin\Debug\netcoreapp3.1\UDPTEST.dll
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\bin\Debug\netcoreapp3.1\UDPTEST.pdb
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.csprojAssemblyReference.cache
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.AssemblyInfoInputs.cache
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.AssemblyInfo.cs
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.csproj.CoreCompileInputs.cache
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.dll
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.pdb
+C:\Users\erram\OneDrive\Bureau\UDPTEST\UDPTEST\obj\Debug\netcoreapp3.1\UDPTEST.genruntimeconfig.cache
